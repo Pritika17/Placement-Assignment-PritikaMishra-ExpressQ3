@@ -1,0 +1,15 @@
+{
+  "name": "a3",
+  "version": "2.0.0",
+  "description": "getting started project to learn express",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "pritika mishra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
